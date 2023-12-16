@@ -1,0 +1,129 @@
+{
+    "projects": [
+        {
+            "name": "AirBnB Clone",
+            "description": " ",
+            "image": "./src/images_json/airbnb.png",
+            "tags": [
+                "Typescript",
+                "React",
+                "Javascript",
+                "MongoDB",
+                "CSS"
+            ],
+            "key": "project_data.name"
+        },
+        {
+            "name": "Application de Calculatrice",
+            "description": " ",
+            "image": "./src/images_json/calculatrice.jpg",
+            "tags": [
+                "Typescript",
+                "React",
+                "Javascript",
+                "MongoDB",
+                "CSS"
+            ],
+            "key": "project_data.name"
+        },
+        {
+            "name": "Rest Countries API",
+            "description": " ",
+            "image": "./src/images_json/countries.jpg",
+            "tags": [
+                "Typescript",
+                "React",
+                "Javascript",
+                "MongoDB",
+                "CSS",
+                "Express"
+            ],
+            "key": "project_data.name"
+        },
+        {
+            "name": "Drum Machine",
+            "description": " ",
+            "image": "./src/images_json/drum_machine.jpg",
+            "tags": [
+                "Typescript",
+                "React",
+                "Javascript",
+                "Howler",
+                "CSS"
+            ],
+            "key": "project_data.name"
+        },
+        {
+            "name": "Editeur Markdown",
+            "description": " ",
+            "image": "./src/images_json/markdown.jpg",
+            "tags": [
+                "Typescript",
+                "React",
+                "Javascript",
+                "CSS"
+            ],
+            "key": "project_data.name"
+        },
+        {
+            "name": "Pomodoro App",
+            "description": " ",
+            "image": "./src/images_json/pomodoro.jpg",
+            "tags": [
+                "Typescript",
+                "React",
+                "Javascript",
+                "CSS"
+            ],
+            "key": "project_data.name"
+        },
+        {
+            "name": "PortFolio",
+            "description": " ",
+            "image": "./src/images_json/portefolio.jpg",
+            "tags": [
+                "Typescript",
+                "React",
+                "Javascript",
+                "Json",
+                "CSS",
+                "Particles"
+            ],
+            "key": "project_data.name"
+        },
+        {
+            "name": "Random Quote App",
+            "description": " ",
+            "image": "./src/images_json/quote_random.jpg",
+            "tags": [
+                "Typescript",
+                "React",
+                "Javascript",
+                "API",
+                "CSS"
+            ],
+            "key": "project_data.name"
+        },
+        {
+            "name": "Site de tourisme dans l'espace",
+            "description": " ",
+            "image": "./src/images_json/space_tourism.jpg",
+            "tags": [
+                "Typescript",
+                "React",
+                "Javascript",
+                "CSS"
+            ],
+            "key": "project_data.name"
+        }
+    ],
+    "languages": [
+        "React",
+        "Typescript",
+        "Javascript",
+        "MongoDB",
+        "CSS",
+        "Json",
+        "Express"
+    ]
+}
